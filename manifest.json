@@ -14364,6 +14364,134 @@
         "blob/d184c2391ceac7ac2c2cd97c308aeb0c92c7dfb0.nq.gz",
         "blob/6a26a7d3292c7cc7af1b545fb3b513d29668e1f5.nq.gz",
         "blob/3afd2bad0c3578214a7a43dbfd0b17d7a519c6b9.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/e6939195fbb5191402ba3d6f5b7aade463de6e51.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/e6939195fbb5191402ba3d6f5b7aade463de6e51.nq.gz",
+      "repolex": "aggregate/repolex/e6939195fbb5191402ba3d6f5b7aade463de6e51.nq.gz",
+      "dep": "dep/e6939195fbb5191402ba3d6f5b7aade463de6e51.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "@rollup/plugin-typescript",
+          "githubOrg": "rollup",
+          "githubRepo": "plugins"
+        },
+        {
+          "packageName": "@types/node",
+          "githubOrg": "DefinitelyTyped",
+          "githubRepo": "DefinitelyTyped"
+        },
+        {
+          "packageName": "@typescript-eslint/parser",
+          "githubOrg": "typescript-eslint",
+          "githubRepo": "typescript-eslint"
+        },
+        {
+          "packageName": "benchmark",
+          "githubOrg": "bestiejs",
+          "githubRepo": "benchmark.js"
+        },
+        {
+          "packageName": "dependency-cruiser",
+          "githubOrg": "sverweij",
+          "githubRepo": "dependency-cruiser"
+        },
+        {
+          "packageName": "eslint",
+          "githubOrg": "eslint",
+          "githubRepo": "eslint"
+        },
+        {
+          "packageName": "eslint-config-prettier",
+          "githubOrg": "prettier",
+          "githubRepo": "eslint-config-prettier"
+        },
+        {
+          "packageName": "eslint-plugin-ban",
+          "githubOrg": "remithomas",
+          "githubRepo": "eslint-plugin-ban"
+        },
+        {
+          "packageName": "eslint-plugin-import",
+          "githubOrg": "benmosher",
+          "githubRepo": "eslint-plugin-import"
+        },
+        {
+          "packageName": "eslint-plugin-simple-import-sort",
+          "githubOrg": "lydell",
+          "githubRepo": "eslint-plugin-simple-import-sort"
+        },
+        {
+          "packageName": "eslint-plugin-unused-imports",
+          "githubOrg": "sweepline",
+          "githubRepo": "eslint-plugin-unused-imports"
+        },
+        {
+          "packageName": "husky",
+          "githubOrg": "typicode",
+          "githubRepo": "husky"
+        },
+        {
+          "packageName": "jest",
+          "githubOrg": "jestjs",
+          "githubRepo": "jest"
+        },
+        {
+          "packageName": "lint-staged",
+          "githubOrg": "okonet",
+          "githubRepo": "lint-staged"
+        },
+        {
+          "packageName": "nodemon",
+          "githubOrg": "remy",
+          "githubRepo": "nodemon"
+        },
+        {
+          "packageName": "prettier",
+          "githubOrg": "prettier",
+          "githubRepo": "prettier"
+        },
+        {
+          "packageName": "pretty-quick",
+          "githubOrg": "prettier",
+          "githubRepo": "pretty-quick"
+        },
+        {
+          "packageName": "rollup",
+          "githubOrg": "rollup",
+          "githubRepo": "rollup"
+        },
+        {
+          "packageName": "ts-jest",
+          "githubOrg": "kulshekhar",
+          "githubRepo": "ts-jest"
+        },
+        {
+          "packageName": "ts-morph",
+          "githubOrg": "dsherret",
+          "githubRepo": "ts-morph"
+        },
+        {
+          "packageName": "ts-node",
+          "githubOrg": "TypeStrong",
+          "githubRepo": "ts-node"
+        },
+        {
+          "packageName": "tslib",
+          "githubOrg": "Microsoft",
+          "githubRepo": "tslib"
+        },
+        {
+          "packageName": "tsx",
+          "githubOrg": "privatenumber",
+          "githubRepo": "tsx"
+        },
+        {
+          "packageName": "typescript",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript"
+        }
       ]
     },
     {
