@@ -1,0 +1,225 @@
+{
+  "commit": "ca42965df46b2f7e2747db29c40a26bcb32a51d5",
+  "files": {
+    "repolex": {
+      "path": "aggregate/repolex/ca42965df46b2f7e2747db29c40a26bcb32a51d5.nq.gz",
+      "size_bytes": 8124431
+    },
+    "dep": {
+      "path": "dep/ca42965df46b2f7e2747db29c40a26bcb32a51d5.nq.gz",
+      "size_bytes": 2827
+    }
+  },
+  "dependencies": [
+    {
+      "packageName": "@babel/preset-typescript",
+      "packageVersion": "8.0.0-rc.3",
+      "githubOrg": "babel",
+      "githubRepo": "babel",
+      "githubCommit": "c1cc9004b4f4a0b0ce06e330e0cab3c9e7e2b6be"
+    },
+    {
+      "packageName": "@jest/globals",
+      "packageVersion": "30.3.0",
+      "githubOrg": "jestjs",
+      "githubRepo": "jest",
+      "githubCommit": "efb59c2e81083f8dc941f20d6d20a3af2dc8d068"
+    },
+    {
+      "packageName": "@rollup/plugin-typescript",
+      "packageVersion": "9.0.2",
+      "githubOrg": "rollup",
+      "githubRepo": "plugins",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "@swc/core",
+      "packageVersion": "1.9.3-nightly-20241122.1",
+      "githubOrg": "swc-project",
+      "githubRepo": "swc",
+      "githubCommit": "6fa8ca8586e5b5e97c8abf850b88e3662dff53eb"
+    },
+    {
+      "packageName": "@swc/jest",
+      "packageVersion": "0.2.9",
+      "githubOrg": "swc-project",
+      "githubRepo": "jest",
+      "githubCommit": "140bb98c86e7655d138af7d21bbbe871e7b9c84c"
+    },
+    {
+      "packageName": "@types/node",
+      "packageVersion": "9.6.9",
+      "githubOrg": "DefinitelyTyped",
+      "githubRepo": "DefinitelyTyped",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "@typescript-eslint/parser",
+      "packageVersion": "8.9.1-alpha.9",
+      "githubOrg": "typescript-eslint",
+      "githubRepo": "typescript-eslint",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "babel-jest",
+      "packageVersion": "9.0.3",
+      "githubOrg": "facebook",
+      "githubRepo": "jest",
+      "githubCommit": "b251e7c98a3c5f450e533e05b330edcc60705928"
+    },
+    {
+      "packageName": "benchmark",
+      "packageVersion": "2.1.4",
+      "githubOrg": "bestiejs",
+      "githubRepo": "benchmark.js",
+      "githubCommit": "061282627fdb7867d560729ca34b710fe8c48464"
+    },
+    {
+      "packageName": "dependency-cruiser",
+      "packageVersion": "9.9.5",
+      "githubOrg": "sverweij",
+      "githubRepo": "dependency-cruiser",
+      "githubCommit": "3ea4f551e533b8907250f46e121cdffbf4c10c52"
+    },
+    {
+      "packageName": "eslint",
+      "packageVersion": "9.9.1",
+      "githubOrg": "eslint",
+      "githubRepo": "eslint",
+      "githubCommit": "8781e6f063e56438dc22346504ff637df3f84daf"
+    },
+    {
+      "packageName": "eslint-config-prettier",
+      "packageVersion": "9.1.2",
+      "githubOrg": "prettier",
+      "githubRepo": "eslint-config-prettier",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "eslint-plugin-ban",
+      "packageVersion": "2.0.0",
+      "githubOrg": "remithomas",
+      "githubRepo": "eslint-plugin-ban",
+      "githubCommit": "312d84e2c6b18df2ddfeef7ae6f4f4af4bee4e31"
+    },
+    {
+      "packageName": "eslint-plugin-import",
+      "packageVersion": "2.9.0",
+      "githubOrg": "benmosher",
+      "githubRepo": "eslint-plugin-import",
+      "githubCommit": "180d71a959d961db58b11577d84af097bdd34a53"
+    },
+    {
+      "packageName": "eslint-plugin-simple-import-sort",
+      "packageVersion": "9.0.0-beta.1",
+      "githubOrg": "lydell",
+      "githubRepo": "eslint-plugin-simple-import-sort",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "eslint-plugin-unused-imports",
+      "packageVersion": "4.4.1",
+      "githubOrg": "sweepline",
+      "githubRepo": "eslint-plugin-unused-imports",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "husky",
+      "packageVersion": "9.1.7",
+      "githubOrg": "typicode",
+      "githubRepo": "husky",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "jest",
+      "packageVersion": "30.3.0",
+      "githubOrg": "jestjs",
+      "githubRepo": "jest",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "lint-staged",
+      "packageVersion": "9.5.0-beta.2",
+      "githubOrg": "okonet",
+      "githubRepo": "lint-staged",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "nodemon",
+      "packageVersion": "3.1.9",
+      "githubOrg": "remy",
+      "githubRepo": "nodemon",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "prettier",
+      "packageVersion": "4.0.0-alpha.9",
+      "githubOrg": "prettier",
+      "githubRepo": "prettier",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "pretty-quick",
+      "packageVersion": "5.0.0-next.2",
+      "githubOrg": "prettier",
+      "githubRepo": "pretty-quick",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "rollup",
+      "packageVersion": "4.9.6",
+      "githubOrg": "rollup",
+      "githubRepo": "rollup",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "ts-jest",
+      "packageVersion": "29.4.6",
+      "githubOrg": "kulshekhar",
+      "githubRepo": "ts-jest",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "ts-morph",
+      "packageVersion": "9.1.0",
+      "githubOrg": "dsherret",
+      "githubRepo": "ts-morph",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "ts-node",
+      "packageVersion": "9.1.1",
+      "githubOrg": "TypeStrong",
+      "githubRepo": "ts-node",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "tslib",
+      "packageVersion": "2.8.1",
+      "githubOrg": "Microsoft",
+      "githubRepo": "tslib",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "tsx",
+      "packageVersion": "4.9.5",
+      "githubOrg": "privatenumber",
+      "githubRepo": "tsx",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "typescript",
+      "packageVersion": "6.0.1-rc",
+      "githubOrg": "microsoft",
+      "githubRepo": "TypeScript",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "vitest",
+      "packageVersion": "4.1.0-beta.6",
+      "githubOrg": "vitest-dev",
+      "githubRepo": "vitest",
+      "githubCommit": "HEAD"
+    }
+  ]
+}
