@@ -5617,7 +5617,73 @@
         "aggregate/ast/248e210df242d18d7d2882c343d011d43bf4a4c1.nq.gz"
       ],
       "lsp": "aggregate/lsp/248e210df242d18d7d2882c343d011d43bf4a4c1.nq.gz",
-      "repolex": "aggregate/repolex/248e210df242d18d7d2882c343d011d43bf4a4c1.nq.gz"
+      "repolex": "aggregate/repolex/248e210df242d18d7d2882c343d011d43bf4a4c1.nq.gz",
+      "dep": "dep/248e210df242d18d7d2882c343d011d43bf4a4c1.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "@types/jest",
+          "packageVersion": "30.0.0",
+          "githubOrg": "DefinitelyTyped",
+          "githubRepo": "DefinitelyTyped",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "jest",
+          "packageVersion": "30.3.0",
+          "githubOrg": "jestjs",
+          "githubRepo": "jest",
+          "githubCommit": "efb59c2e81083f8dc941f20d6d20a3af2dc8d068"
+        },
+        {
+          "packageName": "make-coverage-badge",
+          "packageVersion": "1.2.0",
+          "githubOrg": "tlvince",
+          "githubRepo": "make-coverage-badge",
+          "githubCommit": "678a2f82dab365f0436d514f695a61189e1f6ac7"
+        },
+        {
+          "packageName": "nodemon",
+          "packageVersion": "3.1.9",
+          "githubOrg": "remy",
+          "githubRepo": "nodemon",
+          "githubCommit": "9c9de6eb075c62650145bfebfac3680923f172d6"
+        },
+        {
+          "packageName": "prettier",
+          "packageVersion": "4.0.0-alpha.9",
+          "githubOrg": "prettier",
+          "githubRepo": "prettier",
+          "githubCommit": "1a05fe4ccb3be22bddc78cfaf8fac12f9e5c2f5e"
+        },
+        {
+          "packageName": "ts-jest",
+          "packageVersion": "29.4.6",
+          "githubOrg": "kulshekhar",
+          "githubRepo": "ts-jest",
+          "githubCommit": "202bde5a7c472b288db6cb397bbf2493225628be"
+        },
+        {
+          "packageName": "tslint",
+          "packageVersion": "6.1.3",
+          "githubOrg": "palantir",
+          "githubRepo": "tslint",
+          "githubCommit": "10fc233b2555044b145c9bbd9f602d43e8df2216"
+        },
+        {
+          "packageName": "tslint-config-prettier",
+          "packageVersion": "1.9.0",
+          "githubOrg": "alexjoverm",
+          "githubRepo": "tslint-config-prettier",
+          "githubCommit": "5bace45ae61ec1892fbe636a7678bc1185ce6d0f"
+        },
+        {
+          "packageName": "typescript",
+          "packageVersion": "6.0.1-rc",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "githubCommit": "HEAD"
+        }
+      ]
     },
     {
       "commit": "1b1108030c2116620117af7e238aed50c23fc186",
