@@ -1,5 +1,11 @@
 {
   "org": "colinhacks",
   "repo": "zod",
-  "versions": []
+  "versions": [
+    {
+      "commit": "a1d2d089dd66ac0bbaf0fdd64709c66d796e83a3",
+      "tag": "",
+      "parsed_at": ""
+    }
+  ]
 }
