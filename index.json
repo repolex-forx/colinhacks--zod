@@ -3,6 +3,11 @@
   "repo": "zod",
   "versions": [
     {
+      "commit": "22f3cc6ed52a28c984a0319a1a03e1af244cee02",
+      "tag": "",
+      "parsed_at": ""
+    },
+    {
       "commit": "3b75ae584e31d8bd06f7298247cd3d27520cf881",
       "tag": "",
       "parsed_at": ""
