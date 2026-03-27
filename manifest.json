@@ -53320,6 +53320,206 @@
         "blob/2c547616644858af39fd8d92a034a535c983c1c0.nq.gz",
         "blob/3afd2bad0c3578214a7a43dbfd0b17d7a519c6b9.nq.gz",
         "blob/aead72af7a5bb112acc77139bd278d8edd1fa0a9.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/ca3c8629c0c2715571f70b44c2433cad3db7fe4e.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/ca3c8629c0c2715571f70b44c2433cad3db7fe4e.nq.gz",
+      "repolex": "aggregate/repolex/ca3c8629c0c2715571f70b44c2433cad3db7fe4e.nq.gz",
+      "dep": "dep/ca3c8629c0c2715571f70b44c2433cad3db7fe4e.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "madge",
+          "packageVersion": "8.0.0",
+          "githubOrg": "pahen",
+          "githubRepo": "madge",
+          "githubCommit": "456057b85c2d063dad9c10147d7686ded4fc5ce5",
+          "githubTag": "v8.0.0"
+        },
+        {
+          "packageName": "@seriousme/openapi-schema-validator",
+          "packageVersion": "2.8.0",
+          "githubOrg": "seriousme",
+          "githubRepo": "openapi-schema-validator",
+          "githubCommit": "164d0fceab0b0827cadafa580a0117c5253d8e79",
+          "githubTag": "v2.8.0"
+        },
+        {
+          "packageName": "benchmark",
+          "packageVersion": "2.1.4",
+          "githubOrg": "bestiejs",
+          "githubRepo": "benchmark.js",
+          "githubCommit": "061282627fdb7867d560729ca34b710fe8c48464",
+          "githubTag": "2.1.4"
+        },
+        {
+          "packageName": "chalk",
+          "packageVersion": "5.6.2",
+          "githubOrg": "chalk",
+          "githubRepo": "chalk",
+          "githubCommit": "51557784b829c87ff8d138206598764f2eb957b1",
+          "githubTag": "v5.6.2"
+        },
+        {
+          "packageName": "console-table-printer",
+          "packageVersion": "2.9.0",
+          "githubOrg": "ayonious",
+          "githubRepo": "console-table-printer",
+          "githubCommit": "4f4ae605951ebd868b88934cf4927f621fcec12e",
+          "githubTag": "v2.9.0"
+        },
+        {
+          "packageName": "esbuild",
+          "packageVersion": "0.9.7",
+          "githubOrg": "evanw",
+          "githubRepo": "esbuild",
+          "githubCommit": "c7ea6ce1e0687a80271fc53020fedcf6103daa4f",
+          "githubTag": "v0.9.7"
+        },
+        {
+          "packageName": "execa",
+          "packageVersion": "9.6.1",
+          "githubOrg": "sindresorhus",
+          "githubRepo": "execa",
+          "githubCommit": "84e1f36b2c31a463e3efbd37c7505da9438a05c9",
+          "githubTag": "v9.6.1"
+        },
+        {
+          "packageName": "globby",
+          "packageVersion": "9.2.0",
+          "githubOrg": "sindresorhus",
+          "githubRepo": "globby",
+          "githubCommit": "766b728570193dcc2daebcf64c6e14bf5d95270a",
+          "githubTag": "v9.2.0"
+        },
+        {
+          "packageName": "husky",
+          "packageVersion": "9.1.7",
+          "githubOrg": "typicode",
+          "githubRepo": "husky",
+          "githubCommit": "799e84b716d0e03db80db5d5b0dcdd15b9d555fc",
+          "githubTag": "v9.1.7"
+        },
+        {
+          "packageName": "jsr",
+          "packageVersion": "0.9.0",
+          "githubOrg": "denoland",
+          "githubRepo": "jsr-node-cli",
+          "githubCommit": "a08c881c11f34088abf432e1f8c595885312bd91",
+          "githubTag": "0.9.0"
+        },
+        {
+          "packageName": "prettier",
+          "packageVersion": "4.0.0-alpha.9",
+          "githubOrg": "prettier",
+          "githubRepo": "prettier",
+          "githubCommit": "1a05fe4ccb3be22bddc78cfaf8fac12f9e5c2f5e",
+          "githubTag": "4.0.0-alpha.9"
+        },
+        {
+          "packageName": "recheck",
+          "packageVersion": "4.6.0-beta.3",
+          "githubOrg": "makenowjust-labs",
+          "githubRepo": "recheck",
+          "githubCommit": "bfb826372f812e2ff67b66616679b5b1833adb4c",
+          "githubTag": "v4.6.0-beta.3"
+        },
+        {
+          "packageName": "rolldown",
+          "packageVersion": "1.0.0-rc.9",
+          "githubOrg": "rolldown",
+          "githubRepo": "rolldown",
+          "githubCommit": "00f9fa1d47335aacbb9becc527fd920169bdf0cf",
+          "githubTag": "v1.0.0-rc.9"
+        },
+        {
+          "packageName": "rollup",
+          "packageVersion": "4.9.6",
+          "githubOrg": "rollup",
+          "githubRepo": "rollup",
+          "githubCommit": "ecb6b0a430098052781aa6ee04ec92ee70960321",
+          "githubTag": "v4.9.6"
+        },
+        {
+          "packageName": "semver",
+          "packageVersion": "7.7.4",
+          "githubOrg": "npm",
+          "githubRepo": "node-semver",
+          "githubCommit": "5993c2e42bdf17c5f03e6360da51bc707fcee460",
+          "githubTag": "v7.7.4"
+        },
+        {
+          "packageName": "supershy",
+          "packageVersion": "1.0.0",
+          "githubOrg": "isaacs",
+          "githubRepo": "tshy",
+          "githubCommit": "57a9baa91facde89bb413bd792e507845241014b",
+          "githubTag": "v1.0.0"
+        },
+        {
+          "packageName": "tinybench",
+          "packageVersion": "6.0.0-rc.1",
+          "githubOrg": "tinylibs",
+          "githubRepo": "tinybench",
+          "githubCommit": "c6aa3d1333d084c90e3b2bae2c531927f3c4eee2",
+          "githubTag": "v6.0.0-rc.1"
+        },
+        {
+          "packageName": "ts-morph",
+          "packageVersion": "9.1.0",
+          "githubOrg": "dsherret",
+          "githubRepo": "ts-morph",
+          "githubCommit": "cc3be5073203ac7d86407339135c5e2ce6d3f52d",
+          "githubTag": "9.1.0"
+        },
+        {
+          "packageName": "tsdown",
+          "packageVersion": "0.9.9",
+          "githubOrg": "rolldown",
+          "githubRepo": "tsdown",
+          "githubCommit": "bb75cbcfa2987187f0c65726d069d36a07c1f8b7",
+          "githubTag": "v0.9.9"
+        },
+        {
+          "packageName": "tslib",
+          "packageVersion": "2.8.1",
+          "githubOrg": "Microsoft",
+          "githubRepo": "tslib",
+          "githubCommit": "d72d6f70b36286bc3f94a3dda1e64dcb568b1370",
+          "githubTag": "v2.8.1"
+        },
+        {
+          "packageName": "tsx",
+          "packageVersion": "4.9.5",
+          "githubOrg": "privatenumber",
+          "githubRepo": "tsx",
+          "githubCommit": "dae9f0d62dd06591ad2b7abb970e412a15f417a6",
+          "githubTag": "v4.9.5"
+        },
+        {
+          "packageName": "typescript",
+          "packageVersion": "6.0.2",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "githubCommit": "607a22a90d1a5a1b507ce01bb8cd7ec020f954e7",
+          "githubTag": "v6.0.2"
+        },
+        {
+          "packageName": "vitest",
+          "packageVersion": "4.1.2",
+          "githubOrg": "vitest-dev",
+          "githubRepo": "vitest",
+          "githubCommit": "fc6f482f4c54bf6a766a0ff502b9843994af5bf5",
+          "githubTag": "v4.1.2"
+        },
+        {
+          "packageName": "zshy",
+          "packageVersion": "0.7.0",
+          "githubOrg": "colinhacks",
+          "githubRepo": "zshy",
+          "githubCommit": "64f86460bf5d05d8ba5e105ad9d299923e7fcd48",
+          "githubTag": "v0.7.0"
+        }
       ]
     },
     {
