@@ -1852,66 +1852,98 @@
       "dependencies": [
         {
           "packageName": "@types/jest",
-          "packageVersion": "30.0.0",
+          "ecosystem": "NPM",
+          "version": "25.1.4",
           "githubOrg": "DefinitelyTyped",
           "githubRepo": "DefinitelyTyped",
-          "githubCommit": "HEAD"
+          "githubUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "jest",
-          "packageVersion": "30.3.0",
+          "ecosystem": "NPM",
+          "version": "25.1.0",
           "githubOrg": "jestjs",
           "githubRepo": "jest",
-          "githubCommit": "efb59c2e81083f8dc941f20d6d20a3af2dc8d068"
+          "githubCommit": "5dcc48075f22d581864f381f20bc8b257d2a73cd",
+          "githubTag": "v25.1.0",
+          "githubUrl": "https://github.com/jestjs/jest.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "make-coverage-badge",
-          "packageVersion": "1.2.0",
+          "ecosystem": "NPM",
+          "version": "1.2.0",
           "githubOrg": "tlvince",
           "githubRepo": "make-coverage-badge",
-          "githubCommit": "678a2f82dab365f0436d514f695a61189e1f6ac7"
+          "githubCommit": "678a2f82dab365f0436d514f695a61189e1f6ac7",
+          "githubTag": "v1.2.0",
+          "githubUrl": "git+https://github.com/tlvince/make-coverage-badge.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "nodemon",
-          "packageVersion": "3.1.9",
+          "ecosystem": "NPM",
+          "version": "2.0.2",
           "githubOrg": "remy",
           "githubRepo": "nodemon",
-          "githubCommit": "9c9de6eb075c62650145bfebfac3680923f172d6"
+          "githubCommit": "cd45d74593be411eba39481e5a8360c39079b118",
+          "githubTag": "v2.0.2",
+          "githubUrl": "git+https://github.com/remy/nodemon.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "prettier",
-          "packageVersion": "4.0.0-alpha.9",
+          "ecosystem": "NPM",
+          "version": "1.19.1",
           "githubOrg": "prettier",
           "githubRepo": "prettier",
-          "githubCommit": "1a05fe4ccb3be22bddc78cfaf8fac12f9e5c2f5e"
+          "githubCommit": "95b8e54d1a6eeabebd81db37a4e088ea1de9197d",
+          "githubTag": "1.19.1",
+          "githubUrl": "git+https://github.com/prettier/prettier.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "ts-jest",
-          "packageVersion": "29.4.6",
+          "ecosystem": "NPM",
+          "version": "25.2.1",
           "githubOrg": "kulshekhar",
           "githubRepo": "ts-jest",
-          "githubCommit": "202bde5a7c472b288db6cb397bbf2493225628be"
+          "githubCommit": "3e2e008466ed344074d92908c25f4f2b7b8668ac",
+          "githubTag": "25.2.1",
+          "githubUrl": "git+https://github.com/kulshekhar/ts-jest.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "tslint",
-          "packageVersion": "6.1.3",
+          "ecosystem": "NPM",
+          "version": "6.1.0",
           "githubOrg": "palantir",
           "githubRepo": "tslint",
-          "githubCommit": "10fc233b2555044b145c9bbd9f602d43e8df2216"
+          "githubCommit": "0ebda9b11a4fe7f27f6eb25aedc552960ca584c6",
+          "githubTag": "6.1.0",
+          "githubUrl": "https://github.com/palantir/tslint.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "tslint-config-prettier",
-          "packageVersion": "1.9.0",
-          "githubOrg": "alexjoverm",
+          "ecosystem": "NPM",
+          "version": "1.18.0",
+          "githubOrg": "prettier",
           "githubRepo": "tslint-config-prettier",
-          "githubCommit": "5bace45ae61ec1892fbe636a7678bc1185ce6d0f"
+          "githubCommit": "4898124666e7cba64d8b6dc3527884d9b087aaa3",
+          "githubTag": "v1.18.0",
+          "githubUrl": "git+https://github.com/prettier/tslint-config-prettier.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "typescript",
-          "packageVersion": "6.0.1-rc",
+          "ecosystem": "NPM",
+          "version": "3.2",
           "githubOrg": "microsoft",
           "githubRepo": "TypeScript",
-          "githubCommit": "HEAD"
+          "githubUrl": "git+https://github.com/microsoft/TypeScript.git",
+          "source": "build_file:package.json"
         }
       ]
     },
