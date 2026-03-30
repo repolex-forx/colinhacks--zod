@@ -43750,123 +43750,286 @@
       "dependencies": [
         {
           "packageName": "@rollup/plugin-typescript",
+          "ecosystem": "NPM",
+          "version": "8.2.0",
           "githubOrg": "rollup",
-          "githubRepo": "plugins"
+          "githubRepo": "plugins",
+          "githubUrl": "git+https://github.com/rollup/plugins.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@types/benchmark",
+          "ecosystem": "NPM",
+          "version": "2.1.0",
+          "githubOrg": "DefinitelyTyped",
+          "githubRepo": "DefinitelyTyped",
+          "githubUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@types/jest",
+          "ecosystem": "NPM",
+          "version": "29.2.2",
+          "githubOrg": "DefinitelyTyped",
+          "githubRepo": "DefinitelyTyped",
+          "githubUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "@types/node",
+          "ecosystem": "NPM",
+          "version": "14",
           "githubOrg": "DefinitelyTyped",
-          "githubRepo": "DefinitelyTyped"
+          "githubRepo": "DefinitelyTyped",
+          "githubUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@typescript-eslint/eslint-plugin",
+          "ecosystem": "NPM",
+          "version": "5.15.0",
+          "githubOrg": "typescript-eslint",
+          "githubRepo": "typescript-eslint",
+          "githubCommit": "b5b5f415c234f3456575a69da31ac9f6d2f8b146",
+          "githubTag": "v5.15.0",
+          "githubUrl": "git+https://github.com/typescript-eslint/typescript-eslint.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "@typescript-eslint/parser",
+          "ecosystem": "NPM",
+          "version": "5.15.0",
           "githubOrg": "typescript-eslint",
-          "githubRepo": "typescript-eslint"
+          "githubRepo": "typescript-eslint",
+          "githubCommit": "b5b5f415c234f3456575a69da31ac9f6d2f8b146",
+          "githubTag": "v5.15.0",
+          "githubUrl": "git+https://github.com/typescript-eslint/typescript-eslint.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "benchmark",
+          "ecosystem": "NPM",
+          "version": "2.1.4",
           "githubOrg": "bestiejs",
-          "githubRepo": "benchmark.js"
+          "githubRepo": "benchmark.js",
+          "githubCommit": "061282627fdb7867d560729ca34b710fe8c48464",
+          "githubTag": "2.1.4",
+          "githubUrl": "git+https://github.com/bestiejs/benchmark.js.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "dependency-cruiser",
+          "ecosystem": "NPM",
+          "version": "9.19.0",
           "githubOrg": "sverweij",
-          "githubRepo": "dependency-cruiser"
+          "githubRepo": "dependency-cruiser",
+          "githubCommit": "006f824e4cb85ae0e9edb91aa9aebec3d10a3ef6",
+          "githubTag": "v9.19.0",
+          "githubUrl": "git+https://github.com/sverweij/dependency-cruiser.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "eslint",
+          "ecosystem": "NPM",
+          "version": "8.11.0",
           "githubOrg": "eslint",
-          "githubRepo": "eslint"
+          "githubRepo": "eslint",
+          "githubCommit": "76a235a31718312c2ed202fdde030d329ca62486",
+          "githubTag": "v8.11.0",
+          "githubUrl": "git+https://github.com/eslint/eslint.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "eslint-config-prettier",
+          "ecosystem": "NPM",
+          "version": "8.5.0",
           "githubOrg": "prettier",
-          "githubRepo": "eslint-config-prettier"
+          "githubRepo": "eslint-config-prettier",
+          "githubCommit": "3dfe8c6301897260486e13bc22712e824958c422",
+          "githubTag": "v8.5.0",
+          "githubUrl": "git+https://github.com/prettier/eslint-config-prettier.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "eslint-plugin-ban",
+          "ecosystem": "NPM",
+          "version": "1.6.0",
           "githubOrg": "remithomas",
-          "githubRepo": "eslint-plugin-ban"
+          "githubRepo": "eslint-plugin-ban",
+          "githubUrl": "git+https://github.com/remithomas/eslint-plugin-ban.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "eslint-plugin-import",
-          "githubOrg": "benmosher",
-          "githubRepo": "eslint-plugin-import"
+          "ecosystem": "NPM",
+          "version": "2.25.4",
+          "githubOrg": "import-js",
+          "githubRepo": "eslint-plugin-import",
+          "githubCommit": "68cea3e6b6fe5fd61e5cf2e2c7c0be9e8dc597cb",
+          "githubTag": "v2.25.4",
+          "githubUrl": "git+https://github.com/import-js/eslint-plugin-import.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "eslint-plugin-simple-import-sort",
+          "ecosystem": "NPM",
+          "version": "7.0.0",
           "githubOrg": "lydell",
-          "githubRepo": "eslint-plugin-simple-import-sort"
+          "githubRepo": "eslint-plugin-simple-import-sort",
+          "githubCommit": "7cfda3fac1436a3f71be5fa0e757b4fc96e043fb",
+          "githubTag": "v7.0.0",
+          "githubUrl": "git+https://github.com/lydell/eslint-plugin-simple-import-sort.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "eslint-plugin-unused-imports",
+          "ecosystem": "NPM",
+          "version": "2.0.0",
           "githubOrg": "sweepline",
-          "githubRepo": "eslint-plugin-unused-imports"
+          "githubRepo": "eslint-plugin-unused-imports",
+          "githubUrl": "git+https://github.com/sweepline/eslint-plugin-unused-imports.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "husky",
+          "ecosystem": "NPM",
+          "version": "7.0.4",
           "githubOrg": "typicode",
-          "githubRepo": "husky"
+          "githubRepo": "husky",
+          "githubCommit": "38083d384c5a54459278668003be1004b6d15f7c",
+          "githubTag": "v7.0.4",
+          "githubUrl": "git+https://github.com/typicode/husky.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "jest",
+          "ecosystem": "NPM",
+          "version": "29.3.1",
           "githubOrg": "jestjs",
-          "githubRepo": "jest"
+          "githubRepo": "jest",
+          "githubCommit": "05deb8393c4ad71e19be2567b704dfd3a2ab5fc9",
+          "githubTag": "v29.3.1",
+          "githubUrl": "https://github.com/jestjs/jest.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "lint-staged",
-          "githubOrg": "okonet",
-          "githubRepo": "lint-staged"
+          "ecosystem": "NPM",
+          "version": "12.3.7",
+          "githubOrg": "lint-staged",
+          "githubRepo": "lint-staged",
+          "githubCommit": "d327873b1c0b6fbdeb6fd276e523043d51d6de37",
+          "githubTag": "v12.3.7",
+          "githubUrl": "git+https://github.com/lint-staged/lint-staged.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "nodemon",
+          "ecosystem": "NPM",
+          "version": "2.0.15",
           "githubOrg": "remy",
-          "githubRepo": "nodemon"
+          "githubRepo": "nodemon",
+          "githubCommit": "54784ab842a220777958cf590a49c5d9721f9834",
+          "githubTag": "v2.0.15",
+          "githubUrl": "git+https://github.com/remy/nodemon.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "prettier",
+          "ecosystem": "NPM",
+          "version": "2.6.0",
           "githubOrg": "prettier",
-          "githubRepo": "prettier"
+          "githubRepo": "prettier",
+          "githubCommit": "cba25e6b095eb33e9185eb0657680fed3456e688",
+          "githubTag": "2.6.0",
+          "githubUrl": "git+https://github.com/prettier/prettier.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "pretty-quick",
+          "ecosystem": "NPM",
+          "version": "3.1.3",
           "githubOrg": "prettier",
-          "githubRepo": "pretty-quick"
+          "githubRepo": "pretty-quick",
+          "githubCommit": "bc231a3a03a82309603839764a675359bd09e4eb",
+          "githubTag": "v3.1.3",
+          "githubUrl": "git+https://github.com/prettier/pretty-quick.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "rollup",
+          "ecosystem": "NPM",
+          "version": "2.70.1",
           "githubOrg": "rollup",
-          "githubRepo": "rollup"
+          "githubRepo": "rollup",
+          "githubCommit": "b8315e03f9790d610a413316fbf6d565f9340cab",
+          "githubTag": "v2.70.1",
+          "githubUrl": "git+https://github.com/rollup/rollup.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "ts-jest",
+          "ecosystem": "NPM",
+          "version": "29.0.3",
           "githubOrg": "kulshekhar",
-          "githubRepo": "ts-jest"
+          "githubRepo": "ts-jest",
+          "githubCommit": "4a27966e55530f9199447f512523a14b3763457e",
+          "githubTag": "v29.0.3",
+          "githubUrl": "git+https://github.com/kulshekhar/ts-jest.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "ts-morph",
+          "ecosystem": "NPM",
+          "version": "14.0.0",
           "githubOrg": "dsherret",
-          "githubRepo": "ts-morph"
+          "githubRepo": "ts-morph",
+          "githubCommit": "c494733a73abe4e2d65aa922d4fdbfd92b926ad3",
+          "githubTag": "14.0.0",
+          "githubUrl": "git+https://github.com/dsherret/ts-morph.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "ts-node",
+          "ecosystem": "NPM",
+          "version": "10.9.1",
           "githubOrg": "TypeStrong",
-          "githubRepo": "ts-node"
+          "githubRepo": "ts-node",
+          "githubCommit": "0e0da590b3c104ee515ae7b603c29d3d87620ce5",
+          "githubTag": "v10.9.1",
+          "githubUrl": "git://github.com/TypeStrong/ts-node.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "tslib",
+          "ecosystem": "NPM",
+          "version": "2.3.1",
           "githubOrg": "Microsoft",
-          "githubRepo": "tslib"
+          "githubRepo": "tslib",
+          "githubCommit": "251802eeddb5556f507595c624ee7792154ce9fc",
+          "githubTag": "2.3.1",
+          "githubUrl": "git+https://github.com/Microsoft/tslib.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "tsx",
+          "ecosystem": "NPM",
+          "version": "3.8.0",
           "githubOrg": "privatenumber",
-          "githubRepo": "tsx"
+          "githubRepo": "tsx",
+          "githubCommit": "a64c8be944a3871d1005c9a517da7a6312516dce",
+          "githubTag": "v3.8.0",
+          "githubUrl": "git+https://github.com/privatenumber/tsx.git",
+          "source": "build_file:package.json"
         },
         {
           "packageName": "typescript",
+          "ecosystem": "NPM",
+          "version": "4.5",
           "githubOrg": "microsoft",
-          "githubRepo": "TypeScript"
+          "githubRepo": "TypeScript",
+          "githubUrl": "git+https://github.com/microsoft/TypeScript.git",
+          "source": "build_file:package.json"
         }
       ]
     },
