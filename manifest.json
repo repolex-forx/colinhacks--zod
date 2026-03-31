@@ -57159,6 +57159,352 @@
         "blob/ce9f53588cf79ba0b06979d5519548c210c9204d.nq.gz",
         "blob/100d7a6332b9b8461312f3f1db49bb647c3dadcb.nq.gz",
         "blob/673ab1ec90f0130351b0d64e7b30709b51432878.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/5b5b129315fbc94a3b0d6244185eaeefcbe438d1.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/5b5b129315fbc94a3b0d6244185eaeefcbe438d1.nq.gz",
+      "repolex": "aggregate/repolex/5b5b129315fbc94a3b0d6244185eaeefcbe438d1.nq.gz",
+      "dep": "dep/5b5b129315fbc94a3b0d6244185eaeefcbe438d1.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "@arethetypeswrong/cli",
+          "ecosystem": "NPM",
+          "version": "0.17.4",
+          "githubOrg": "arethetypeswrong",
+          "githubRepo": "arethetypeswronghub.io",
+          "githubUrl": "git+https://github.com/arethetypeswrong/arethetypeswrong.github.io.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "madge",
+          "ecosystem": "NPM",
+          "version": "8.0.0",
+          "githubOrg": "pahen",
+          "githubRepo": "madge",
+          "githubCommit": "456057b85c2d063dad9c10147d7686ded4fc5ce5",
+          "githubTag": "v8.0.0",
+          "githubUrl": "git://github.com/pahen/madge.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@biomejs/biome",
+          "ecosystem": "NPM",
+          "version": "1.9.4",
+          "githubOrg": "biomejs",
+          "githubRepo": "biome",
+          "githubUrl": "git+https://github.com/biomejs/biome.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@seriousme/openapi-schema-validator",
+          "ecosystem": "NPM",
+          "version": "2.5.0",
+          "githubOrg": "seriousme",
+          "githubRepo": "openapi-schema-validator",
+          "githubCommit": "b673542e4c17a08b07f4e5b16b1843277d1ec8fa",
+          "githubTag": "v2.5.0",
+          "githubUrl": "git+https://github.com/seriousme/openapi-schema-validator.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@types/benchmark",
+          "ecosystem": "NPM",
+          "version": "2.1.5",
+          "githubOrg": "DefinitelyTyped",
+          "githubRepo": "DefinitelyTyped",
+          "githubUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@types/semver",
+          "ecosystem": "NPM",
+          "version": "7.7.0",
+          "githubOrg": "DefinitelyTyped",
+          "githubRepo": "DefinitelyTyped",
+          "githubUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@web-std/file",
+          "ecosystem": "NPM",
+          "version": "3.0.3",
+          "githubOrg": "web-std",
+          "githubRepo": "io",
+          "githubUrl": "git+https://github.com/web-std/io.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "arktype",
+          "ecosystem": "NPM",
+          "version": "2.1.19",
+          "githubOrg": "arktypeio",
+          "githubRepo": "arktype",
+          "githubUrl": "git+https://github.com/arktypeio/arktype.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "benchmark",
+          "ecosystem": "NPM",
+          "version": "2.1.4",
+          "githubOrg": "bestiejs",
+          "githubRepo": "benchmark.js",
+          "githubCommit": "061282627fdb7867d560729ca34b710fe8c48464",
+          "githubTag": "2.1.4",
+          "githubUrl": "git+https://github.com/bestiejs/benchmark.js.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "chalk",
+          "ecosystem": "NPM",
+          "version": "5.4.1",
+          "githubOrg": "chalk",
+          "githubRepo": "chalk",
+          "githubCommit": "5dbc1e2633f3874f43c144fa4919934bc934c495",
+          "githubTag": "v5.4.1",
+          "githubUrl": "git+https://github.com/chalk/chalk.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "console-table-printer",
+          "ecosystem": "NPM",
+          "version": "2.12.1",
+          "githubOrg": "console-table-printer",
+          "githubRepo": "console-table-printer",
+          "githubCommit": "fd21eeb204d674778c3ab8a691bbdab80c708ae9",
+          "githubTag": "v2.12.1",
+          "githubUrl": "git+https://github.com/console-table-printer/console-table-printer.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "esbuild",
+          "ecosystem": "NPM",
+          "version": "0.25.5",
+          "githubOrg": "evanw",
+          "githubRepo": "esbuild",
+          "githubCommit": "ea453bf687c8e5cf3c5f11aae372c5ca33be0c98",
+          "githubTag": "v0.25.5",
+          "githubUrl": "git+https://github.com/evanw/esbuild.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "execa",
+          "ecosystem": "NPM",
+          "version": "9.5.2",
+          "githubOrg": "sindresorhus",
+          "githubRepo": "execa",
+          "githubCommit": "99d1741d2525eca71b986282148bbf2983356428",
+          "githubTag": "v9.5.2",
+          "githubUrl": "git+https://github.com/sindresorhus/execa.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "globby",
+          "ecosystem": "NPM",
+          "version": "14.1.0",
+          "githubOrg": "sindresorhus",
+          "githubRepo": "globby",
+          "githubCommit": "60d7de54476f9ba9734c1b6923fba39d6589de5f",
+          "githubTag": "v14.1.0",
+          "githubUrl": "git+https://github.com/sindresorhus/globby.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "husky",
+          "ecosystem": "NPM",
+          "version": "9.1.7",
+          "githubOrg": "typicode",
+          "githubRepo": "husky",
+          "githubCommit": "799e84b716d0e03db80db5d5b0dcdd15b9d555fc",
+          "githubTag": "v9.1.7",
+          "githubUrl": "git+https://github.com/typicode/husky.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "jsr",
+          "ecosystem": "NPM",
+          "version": "0.12.4",
+          "githubOrg": "jsr-io",
+          "githubRepo": "jsr-npm",
+          "githubCommit": "b507e9c7352042cb6b4be16089c59c7d303e1782",
+          "githubTag": "0.12.4",
+          "githubUrl": "git+https://github.com/jsr-io/jsr-npm.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "lint-staged",
+          "ecosystem": "NPM",
+          "version": "16.1.0",
+          "githubOrg": "lint-staged",
+          "githubRepo": "lint-staged",
+          "githubCommit": "f92caaad52cf7f87d8368bdb08abbc64b378b7c9",
+          "githubTag": "v16.1.0",
+          "githubUrl": "git+https://github.com/lint-staged/lint-staged.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "mitata",
+          "ecosystem": "NPM",
+          "version": "0.1.14",
+          "githubOrg": "evanwashere",
+          "githubRepo": "mitata",
+          "githubUrl": "git+https://github.com/evanwashere/mitata.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "prettier",
+          "ecosystem": "NPM",
+          "version": "3.5.3",
+          "githubOrg": "prettier",
+          "githubRepo": "prettier",
+          "githubCommit": "4ff5dc540fa09b25fb0c02709d227af5ca53cfbf",
+          "githubTag": "3.5.3",
+          "githubUrl": "git+https://github.com/prettier/prettier.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "recheck",
+          "ecosystem": "NPM",
+          "version": "4.5.0",
+          "githubOrg": "makenowjust-labs",
+          "githubRepo": "recheck",
+          "githubCommit": "b40bd4d39217e54c94d2de5ed6ec521540fcffd6",
+          "githubTag": "v4.5.0",
+          "githubUrl": "https://github.com/makenowjust-labs/recheck.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "rolldown",
+          "ecosystem": "NPM",
+          "version": "1.0.0-beta.18",
+          "githubOrg": "rolldown",
+          "githubRepo": "rolldown",
+          "githubCommit": "983e2c886311808ec3e7f3a163318bb564081151",
+          "githubTag": "v1.0.0-beta.18",
+          "githubUrl": "git+https://github.com/rolldown/rolldown.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "rollup",
+          "ecosystem": "NPM",
+          "version": "4.39.0",
+          "githubOrg": "rollup",
+          "githubRepo": "rollup",
+          "githubCommit": "5c001245779063abac3899aa9d25294ab003581b",
+          "githubTag": "v4.39.0",
+          "githubUrl": "git+https://github.com/rollup/rollup.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "semver",
+          "ecosystem": "NPM",
+          "version": "7.7.2",
+          "githubOrg": "npm",
+          "githubRepo": "node-semver",
+          "githubCommit": "281055e7716ef0415a8826972471331989ede58c",
+          "githubTag": "v7.7.2",
+          "githubUrl": "git+https://github.com/npm/node-semver.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "supershy",
+          "ecosystem": "NPM",
+          "version": "1.0.0",
+          "githubOrg": "isaacs",
+          "githubRepo": "tshy",
+          "githubCommit": "57a9baa91facde89bb413bd792e507845241014b",
+          "githubTag": "v1.0.0",
+          "githubUrl": "git+https://github.com/isaacs/tshy.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "tinybench",
+          "ecosystem": "NPM",
+          "version": "2.9.0",
+          "githubOrg": "tinylibs",
+          "githubRepo": "tinybench",
+          "githubCommit": "40b95e7bfd7aecda8d19900c748d2f0da01b66bc",
+          "githubTag": "v2.9.0",
+          "githubUrl": "git+https://github.com/tinylibs/tinybench.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "ts-morph",
+          "ecosystem": "NPM",
+          "version": "14.0.0",
+          "githubOrg": "dsherret",
+          "githubRepo": "ts-morph",
+          "githubCommit": "c494733a73abe4e2d65aa922d4fdbfd92b926ad3",
+          "githubTag": "14.0.0",
+          "githubUrl": "git+https://github.com/dsherret/ts-morph.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "tsdown",
+          "ecosystem": "NPM",
+          "version": "0.12.8",
+          "githubOrg": "rolldown",
+          "githubRepo": "tsdown",
+          "githubCommit": "420a60b603235fc6a4119f40bda3b3f60cd59011",
+          "githubTag": "v0.12.8",
+          "githubUrl": "git+https://github.com/rolldown/tsdown.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "tslib",
+          "ecosystem": "NPM",
+          "version": "2.8.1",
+          "githubOrg": "Microsoft",
+          "githubRepo": "tslib",
+          "githubCommit": "d72d6f70b36286bc3f94a3dda1e64dcb568b1370",
+          "githubTag": "v2.8.1",
+          "githubUrl": "git+https://github.com/Microsoft/tslib.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "tsx",
+          "ecosystem": "NPM",
+          "version": "4.19.3",
+          "githubOrg": "privatenumber",
+          "githubRepo": "tsx",
+          "githubCommit": "e04e6c6ccb56f74db5036c358d6c6b24bebe6319",
+          "githubTag": "v4.19.3",
+          "githubUrl": "git+https://github.com/privatenumber/tsx.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "typescript",
+          "ecosystem": "NPM",
+          "version": "5.5.4",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "githubCommit": "c8a7d589e647e19c94150d9892909f3aa93e48eb",
+          "githubTag": "v5.5.4",
+          "githubUrl": "git+https://github.com/microsoft/TypeScript.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "vitest",
+          "ecosystem": "NPM",
+          "version": "4.0.10",
+          "githubOrg": "vitest-dev",
+          "githubRepo": "vitest",
+          "githubCommit": "259a3d1b563ecafa51ced4641218545dab635be7",
+          "githubTag": "v4.0.10",
+          "githubUrl": "git+https://github.com/vitest-dev/vitest.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "zshy",
+          "ecosystem": "NPM",
+          "version": "0.4.2",
+          "githubOrg": "colinhacks",
+          "githubRepo": "zshy",
+          "githubCommit": "f7926b57c86c115204bebffb54ebfaa6fea2ddbd",
+          "githubTag": "v0.4.2",
+          "githubUrl": "git+https://github.com/colinhacks/zshy.git",
+          "source": "build_file:package.json"
+        }
       ]
     },
     {
